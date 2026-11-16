@@ -1,0 +1,2 @@
+# Preserve the existing line endings of Markdown files.
+*.md -text
